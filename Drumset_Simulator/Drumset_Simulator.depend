@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581227231 source:c:\users\benja\desktop\c++\table runners\drumset_simulator\game.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
